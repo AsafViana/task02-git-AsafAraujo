@@ -1,4 +1,4 @@
-# Aula 1
+
 
 ## **Sistema de trabalho**
 
@@ -51,7 +51,7 @@ Agora você pode estar se perguntando: "Como devo nomear minhas branchs?", "Exis
 1. **style:** Mudanças no estilo
 1. **test:** Adiciona ou corrige os testes
 
-# Aula 2
+# 
 
 ## **`git stash`**
 
